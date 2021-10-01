@@ -137,6 +137,7 @@ svg {
   }
 }
 
+//Main content styles
 .content {
   padding-top: 25px;
 }
@@ -208,6 +209,8 @@ svg {
   margin: 0 -4px;
 }
 
+//Content filter styles
+
 .filter-panel {
   display: flex;
   margin: 10px 0 10px;
@@ -251,6 +254,8 @@ svg {
     }
   }
 }
+
+//Grid list styles
 
 .grid-list {
   display: grid;
@@ -349,6 +354,7 @@ svg {
   justify-content: center;
 }
 
+//Footer styles
 .footer {
   font-family: $font-regular-light;
   color: rgba($white, 0.7);
